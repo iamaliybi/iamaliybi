@@ -6,7 +6,3 @@
 
 I am a Frontend Developer at RamandTech! I am currently studying for a bachelor's degree in computer engineering.
 My favorite programming language is [Javascript](https://www.javascript.com/), I have experience in PHP and Laravel too.
-
-<p align="center">
-  <img src="https://github.com/edward-joseph/edward-joseph/raw/main/my-brain.gif" /><br />
-</p>
