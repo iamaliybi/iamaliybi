@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.edwardjoseph)
 
 ## About Me:
-I am a Frontend Developer at RamandTech! I am currently studying for a bachelor's degree in computer engineering.
+I am a Javascript Developer! I am currently studying for a bachelor's degree in computer engineering.
 My favorite programming language is [Javascript](https://www.javascript.com/), I have experience in PHP and Laravel too.
 
 ## Languages and Tools:
