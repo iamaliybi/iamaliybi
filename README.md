@@ -1,8 +1,8 @@
 # Ali Yaghoubi
 
-[![](https://img.shields.io/badge/-cv-black?style=for-the-badge&logo=stackoverflow)](http://stackoverflow.com/cv/edward-joseph)
-[![](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail)](mailto:dev.edwardjoseph@gmail.com)
-[![](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.edwardjoseph)
+[![](https://img.shields.io/badge/-cv-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/11662335/ali-yaghoubi)
+[![](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail)](mailto:iamaliybi.dev@gmail.com)
+[![](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/iamaliybi)
 
 ## About Me:
 I am a Javascript Developer! I am currently studying for a bachelor's degree in computer engineering.
